@@ -1,1 +1,1 @@
-# MJML-email-template
+# MJML-base-email-template

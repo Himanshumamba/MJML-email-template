@@ -1,0 +1,77 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-text font-family="Avenir, Arial Bold, Arial, sans-serif"></mj-text>
+
+    </mj-attributes>
+    <mj-style inline="inline">
+      .border-tc {
+        border: 4px solid #ec193d;
+      }
+
+      a {
+        color: #000;
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#fff">
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/header-banner.png" srcset="images/mobile_banner.png 500w,images/header-banner.png 1200w" sizes="(max-width: 500px) 90vw, (max-width: 768px) 80vw, 1200px" alt="Banner" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="20px" padding-top="10px" padding-left="0">
+      <mj-column>
+        <mj-text align="left" font-size="18px" padding-bottom="10px" padding="20px 0px 20px 20px">Dear Customer,</mj-text>
+        <mj-text align="left" font-size="18px" font-family="Arial" line-height="30px" padding="20px 0px 0px 20px">Thank you for choosing XXX, we hope that you have had a good experience with XXX so far. Enjoy this exclusive reward from us when you simply share your feedback!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column padding="0px">
+        <mj-image src="images//voucher.png" alt="voucher" />
+        <mj-text align="center" font-size="19px" font-family="Arial " font-weight="bold" line-height="30px">Simply be the first 500 to complete our short survey </br> to claim your rewards! </br> </br></mj-text>
+        <mj-text align="center" font-size="14px" font-family="Arial"> <b> *Form closes on 14 Apr 2023<b>
+        </mj-text>
+        <mj-button background-color="#ec193d" color="#fff" font-size="19px" align="center" font-weight="bold" border="none" padding="35px 0px 60px 0px" border-radius="30px" href="https://google.com" font-family="Helvetica" line-height="40px">click here to begin</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#e7eaeb" border-radius="20px" padding="30px 0px 0px 20px" css-class="border-tc">
+      <mj-column>
+
+        <mj-text font-size="20px" align="left" font-family="Arial">Terms &amp; conditions:</mj-text>
+
+        <mj-text font-size="20px" padding="0px 14px 11px 30px" line-height="30px">
+          <ol>
+            <li> &nbsp;To be eligible for the $5 Ya Kun voucher reward, customers must be the first 500 respondents of the feedback survey linked in this e-mail <br></li>
+            <li> &nbsp;Eligible customers will get a confirmation e-mail by 21 Apr 2023 with instructions to claim their voucher</li>
+            <li>&nbsp; Vouchers must be utilised by the date stated in the confirmation e-mail. There will be no replacement of expired vouchers <br></li>
+          </ol>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 25px" background-color="#fff">
+      <mj-column>
+        <mj-text align="left" padding="10px 25px 0px 0px" font-size="18px">Thank you and drive safe! <br> <br></mj-text>
+        <mj-text align="left" font-size="18px" padding="20px 25px 0px 0px" font-family="Arial">Best regards, <br> <br> XXX Team</mj-text>
+
+
+      </mj-column>
+
+
+
+    </mj-section>
+    <mj-section padding="25px" background-color="#e7eaeb">
+      <mj-column>
+        <mj-text font-size="14px" font-family="Arial Bold" font-weight="bold" line-height="20px">Terms and conditions apply. For full terms and conditions, please <a href="https://google.com">click here.</a></br> </br> Copyright © 2023 XXX Communications Ltd. (CRN: 12343234D). All Rights Reserved.
+          This is an unattended mailbox. Please do not reply to sender.Click <a href="https://google.com">here </a> if you wish to unsubscribe.</mj-text>
+
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
